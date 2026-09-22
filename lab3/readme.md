@@ -60,3 +60,4 @@ is used to tell the clinet , the tyo=pe of data by the server it may be html fil
 4. text/css -> stylesheet
 5. application/auth -> for tokens 
    the headers can be set by  res object at server side by two ways
+   s
