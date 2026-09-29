@@ -60,4 +60,8 @@ is used to tell the clinet , the tyo=pe of data by the server it may be html fil
 4. text/css -> stylesheet
 5. application/auth -> for tokens 
    the headers can be set by  res object at server side by two ways
-   s
+
+4. GET -> no parameter will pass to server when we recieve all items 
+7. POST -> to add records we pass the value from bodu section in json format from api tester
+8. to delete any product i.e id of the product from url
+9. to update any product id from url and data upadte from 
